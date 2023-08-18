@@ -1,4 +1,4 @@
-# gimici_devsoftware_GBS-chain
+# gimici_devsoftware_GBS_chain
 
 GBS-chain
 /
